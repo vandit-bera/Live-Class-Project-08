@@ -28,7 +28,7 @@
 ![Project 08](./ss/LCO-8-1.png)
 ![Project 08](./ss/LCO-8-2.png)
 
-Here's a Screen-Shot of my project-02 and I learnt Most of my usefull Future of HTML and CSS.
+Here's a Screen-Shot of my project-08 and I learnt Most of my usefull Future of HTML and CSS.
 <br>
 <br>
 
